@@ -11,11 +11,11 @@
 
 [link to Google!](http://google.com)
 
-[SAS] (http://www.sas.com)
+[SAS](https://www.sas.com/en_us)
 
 [R](http://www.r-project.org)
 
-[Github] (http://github.com)
+[Github](http://github.com)
 
 
 ###This is my first software repository. Please try it now. 

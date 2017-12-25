@@ -14,7 +14,7 @@
    [R] (https://www.r-project.org/)
    [GitHub Flavored Markdown] (https://guides.github.com/features/mastering-markdown/)
    [GitHub] (http://github.com)
-   
+   http://github.com
 ```
 
 This is my first software repository. Please try it now. 

@@ -16,4 +16,4 @@
    
 ```
 
-This is my first software repository. Please try it 
+This is my first software repository. Please try it now. 
